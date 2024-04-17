@@ -3,8 +3,8 @@
 
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React Chat App
+![Top Languages](https://github.com/example/example/blob/master/generated/languages.svg)
+- 🔭 I’m currently working on A Mern Chat App
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
